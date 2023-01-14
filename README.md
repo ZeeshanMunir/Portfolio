@@ -1,5 +1,5 @@
 # Portfolio
-iOS 
+I am a professional iOS Developer overall 4 years of experience in Mobile App Development using Swift and Obj- C. Having Deep knowledge of MVVM, VIPER, and Clean architecture. Delivers many applications to clients successfully also published on App-store.
 
 # [**Directooo**](https://apps.apple.com/us/app/directooo/id1565324549)
 
