@@ -29,3 +29,31 @@ Developed multiple modules like Influencers, In-app purchase, In-app purchase su
 <img src="Images/Directooo/05.jpg" width="250" height="547">
 <img src="Images/Directooo/07.jpg" width="250" height="547">
 <img src="Images/Directooo/08.jpg" width="250" height="547">
+
+
+# [**Circl**](https://apps.apple.com/us/app/)
+
+Circl is a new social booking and creator marketplace for wellbeing professionals and those looking to find them. This app has two user ends one is the Customer and the other one is the Freelancer. Users as Freelancers can register themselves and can set their availability using the calendar. Add different demo videos images, subscription content, public content, Stories, etc. On the other end, the User as a Customer can set appointments and subscribe to their content as well and many more.
+
+### **My Role** <br>
+Developed multiple modules Social Logins, bookings, payments, Chat module, etc. <br>
+
+### **Technologies** <br>
+* Swift <br>
+* Clean architecture <br>
+* Lottie animations <br>
+* Pusher For Chat <br>
+* Payments <br>
+* Push Notifications <br>
+* Google Location services <br>
+* Google maps <br>
+* Firebase <br>
+* Realm <br>
+* Third party libraries <br>
+
+<img src="Images/Directooo/01.jpg" width="250" height="547"><img src="Images/Directooo/02.jpg" width="250" height="547">
+<img src="Images/Directooo/03.jpg" width="250" height="547">
+<img src="Images/Directooo/04.jpg" width="250" height="547">
+<img src="Images/Directooo/05.jpg" width="250" height="547">
+<img src="Images/Directooo/07.jpg" width="250" height="547">
+<img src="Images/Directooo/08.jpg" width="250" height="547">
