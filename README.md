@@ -52,12 +52,11 @@ As an iOS developer communicating with the business team and client, understandi
 * Realm <br>
 * Third party libraries <br>
 
-<img src="Images/Directooo/01.jpg" width="250" height="547"><img src="Images/Directooo/02.jpg" width="250" height="547">
-<img src="Images/Directooo/03.jpg" width="250" height="547">
-<img src="Images/Directooo/04.jpg" width="250" height="547">
-<img src="Images/Directooo/05.jpg" width="250" height="547">
-<img src="Images/Directooo/07.jpg" width="250" height="547">
-<img src="Images/Directooo/08.jpg" width="250" height="547">
+<img src="Images/Owlmi/1.png" width="250" height="547"><img src="Images/Owlmi/2.png" width="250" height="547">
+<img src="Images/Owlmi/3.png" width="250" height="547">
+<img src="Images/Owlmi/4.png" width="250" height="547">
+<img src="Images/Owlmi/5.png" width="250" height="547">
+<img src="Images/Owlmi/6.png" width="250" height="547">
 
 
 # [**Circl**](https://apps.apple.com/us/app/)
