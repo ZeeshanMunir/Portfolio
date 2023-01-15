@@ -31,12 +31,41 @@ Developed multiple modules like Influencers, In-app purchase, In-app purchase su
 <img src="Images/Directooo/08.jpg" width="250" height="547">
 
 
+# [**OWLMI**](https://apps.apple.com/us/app/owlmi/id1640674357)
+
+OWLMI is a platform connecting fans with a new generation of expertise. Book 1:1 video calls and access exclusive content from your favorite experts, professionals and influencers. 
+OWLMI is an easy and fun way for professionals to monetize intellectual knowledge and experience.t
+* Easily Schedule bookigs & 1:1 Video Calls with Professionals <br>
+* Subscribe professionals to access their private content <br>
+
+### **My Role** <br>
+As an iOS developer communicating with the business team and client, understanding requirements, and sprint planning with team members. On the iOS side, I have created this app from scratch.
+
+### **Technologies** <br>
+* Swift <br>
+* Clean architecture <br>
+* Lottie animations <br>
+* Payments <br>
+* Push Notifications <br>
+* Google Location services <br>
+* Firebase <br>
+* Realm <br>
+* Third party libraries <br>
+
+<img src="Images/Directooo/01.jpg" width="250" height="547"><img src="Images/Directooo/02.jpg" width="250" height="547">
+<img src="Images/Directooo/03.jpg" width="250" height="547">
+<img src="Images/Directooo/04.jpg" width="250" height="547">
+<img src="Images/Directooo/05.jpg" width="250" height="547">
+<img src="Images/Directooo/07.jpg" width="250" height="547">
+<img src="Images/Directooo/08.jpg" width="250" height="547">
+
+
 # [**Circl**](https://apps.apple.com/us/app/)
 
 Circl is a new social booking and creator marketplace for wellbeing professionals and those looking to find them. This app has two user ends one is the Customer and the other one is the Freelancer. Users as Freelancers can register themselves and can set their availability using the calendar. Add different demo videos images, subscription content, public content, Stories, etc. On the other end, the User as a Customer can set appointments and subscribe to their content as well and many more.
 
 ### **My Role** <br>
-Developed multiple modules Social Logins, bookings, payments, Chat module, etc. <br>
+Developed multiple modules like Face-ID/Touch-ID(Authentication), Social Logins, bookings, payments, Chat module, etc. <br>
 
 ### **Technologies** <br>
 * Swift <br>
