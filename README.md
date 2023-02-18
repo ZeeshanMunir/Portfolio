@@ -59,6 +59,31 @@ As an iOS developer communicating with the business team and client, understandi
 <img src="Images/Owlmi/6.png" width="250" height="547">
 
 
+# [**BOATEK**](https://apps.apple.com/us/app/boatek/id1601366440)
+
+Boatek is an easy to use application through which boats of all types that are owned by individuals can be rented out so that customers who need the boat for a few hours or days can use it according to their liking. The boat-owner simply has to register his boat on Boatek along with its location and features. The customer can log into the app and choose a boat according to their liking and book their preferred time-slot and enjoy a wonderful experience of exploring the waters.
+
+### **My Role** <br>
+As an iOS developer communicating with the business team and client, understanding requirements, and sprint planning with team members. On the iOS side, I have created this app from scratch.
+
+### **Technologies** <br>
+* Swift <br>
+* Clean architecture <br>
+* Lottie animations <br>
+* Payments <br>
+* Push Notifications <br>
+* Google Location services <br>
+* Firebase <br>
+* Realm <br>
+* Third party libraries <br>
+
+<img src="Images/Boatek/1.png" width="250" height="547"><img src="Images/Owlmi/2.png" width="250" height="547">
+<img src="Images/Boatek/3.png" width="250" height="547">
+<img src="Images/Boatek/4.png" width="250" height="547">
+<img src="Images/Boatek/5.png" width="250" height="547">
+<img src="Images/Boatek/6.png" width="250" height="547">
+
+
 # [**Circl**](https://apps.apple.com/us/app/)
 
 Circl is a new social booking and creator marketplace for wellbeing professionals and those looking to find them. This app has two user ends one is the Customer and the other one is the Freelancer. Users as Freelancers can register themselves and can set their availability using the calendar. Add different demo videos images, subscription content, public content, Stories, etc. On the other end, the User as a Customer can set appointments and subscribe to their content as well and many more.
