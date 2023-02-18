@@ -77,7 +77,7 @@ As an iOS developer communicating with the business team and client, understandi
 * Realm <br>
 * Third party libraries <br>
 
-<img src="Images/Boatek/1.png" width="250" height="547"><img src="Images/Owlmi/2.png" width="250" height="547">
+<img src="Images/Boatek/1.png" width="250" height="547"><img src="Images/Boatek/2.png" width="250" height="547">
 <img src="Images/Boatek/3.png" width="250" height="547">
 <img src="Images/Boatek/4.png" width="250" height="547">
 <img src="Images/Boatek/5.png" width="250" height="547">
