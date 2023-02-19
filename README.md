@@ -34,7 +34,7 @@ Developed multiple modules like Influencers, In-app purchase, In-app purchase su
 # [**OWLMI**](https://apps.apple.com/us/app/owlmi/id1640674357)
 
 OWLMI is a platform connecting fans with a new generation of expertise. Book 1:1 video calls and access exclusive content from your favorite experts, professionals and influencers. 
-OWLMI is an easy and fun way for professionals to monetize intellectual knowledge and experience.t
+OWLMI is an easy and fun way for professionals to monetize intellectual knowledge and experience.
 * Easily Schedule bookigs & 1:1 Video Calls with Professionals <br>
 * Subscribe professionals to access their private content <br>
 
