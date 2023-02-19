@@ -131,7 +131,7 @@ Gears Unlimited is an Exclusive App for DJs. Buy, Rent & Trade For new and used 
 
 # [**Menuons**](https://apps.apple.com/us/app/menuons/id1344697421)
 
-The Mobile App of Menuons Food Online Delivery System
+The Mobile App of Menuons Food Online Delivery System with localization (English/Arabic)
 * All Menu on your phone <br>
 * Delivery or Pick up Feature <br>
 * Payments <br>
