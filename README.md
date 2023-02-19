@@ -111,3 +111,22 @@ Developed multiple modules like Face-ID/Touch-ID(Authentication), Social Logins,
 <img src="Images/Circl/6.png" width="250" height="547">
 <img src="Images/Circl/7.png" width="250" height="547">
 <img src="Images/Circl/8.png" width="250" height="547">
+
+# [**Gears Unlimited**](https://apps.apple.com/us/app/gears-unlimited/id1488106848)
+
+Gears Unlimited is an Exclusive App for DJs. Buy, Rent & Trade For new and used Dj equipment
+
+### **Technologies** <br>
+* Swift <br>
+* MVC <br>
+* In-app purchase <br>
+* Push Notifications <br>
+* Third party libraries <br>
+
+<img src="Images/Gears Unlimited/1.png" width="250" height="547"><img src="Images/Circl/2.png" width="250" height="547">
+<img src="Images/Circl/3.png" width="250" height="547">
+<img src="Images/Circl/4.png" width="250" height="547">
+<img src="Images/Circl/5.png" width="250" height="547">
+<img src="Images/Circl/6.png" width="250" height="547">
+<img src="Images/Circl/7.png" width="250" height="547">
+<img src="Images/Circl/8.png" width="250" height="547">
