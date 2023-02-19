@@ -123,10 +123,8 @@ Gears Unlimited is an Exclusive App for DJs. Buy, Rent & Trade For new and used 
 * Push Notifications <br>
 * Third party libraries <br>
 
-<img src="Images/Gears Unlimited/1.png" width="250" height="547"><img src="Images/Circl/2.png" width="250" height="547">
-<img src="Images/Circl/3.png" width="250" height="547">
-<img src="Images/Circl/4.png" width="250" height="547">
-<img src="Images/Circl/5.png" width="250" height="547">
-<img src="Images/Circl/6.png" width="250" height="547">
-<img src="Images/Circl/7.png" width="250" height="547">
-<img src="Images/Circl/8.png" width="250" height="547">
+<img src="Images/Gears Unlimited/1.png" width="250" height="547"><img src="Images/Gears Unlimited/2.png" width="250" height="547">
+<img src="Images/Gears Unlimited/3.png" width="250" height="547">
+<img src="Images/Gears Unlimited/4.png" width="250" height="547">
+<img src="Images/Gears Unlimited/5.png" width="250" height="547">
+<img src="Images/Gears Unlimited/6.png" width="250" height="547">
