@@ -7,6 +7,24 @@ In addition to my technical skills, I am a strong collaborator and communicator.
 
 In my work, I prioritize clean and maintainable code, ensuring that applications are easy to scale and update. I am always eager to learn new technologies and stay up-to-date with the latest trends and best practices in iOS development.
 
+### **Professionnal Skiills** <br>
+* iOS Development <br>
+* iOS Swift
+* SwiftUI
+* CocoaPods
+* iOS Design (Working with Auto Layouts)
+* REST APIs
+* In-app-purchases & Apple-pay integration
+* Pusher integration for chat
+* Twillio integration for video calling
+* Payment integrations with different payment methods
+* Firebase
+* Alamofire
+* Clean swift architecture, MVVM, MVC
+* Git
+* Push Notifications <br>
+* Google Location services, Google maps <br>
+
 # [**Directooo**](https://apps.apple.com/us/app/directooo/id1565324549)
 
 Directooo is an app connecting influencers and celebrities with their fans, a paid social media platform to browse, discover, and interact with your
@@ -15,19 +33,6 @@ Fans pay creators in exchange for exclusive content, special requests (ex: birth
 
 ### **My Role** <br>
 Developed multiple modules like Influencers, In-app purchase, In-app purchase subscriptions, Networks and NGO’s, Chat module, etc. <br>
-
-### **Technologies** <br>
-* Swift <br>
-* In-app purchase <br>
-* Clean architecture <br>
-* Lottie animations <br>
-* Pusher For Chat <br>
-* Push Notifications <br>
-* Google Location services <br>
-* Google maps <br>
-* Firebase <br>
-* Realm <br>
-* Third party libraries <br>
 
 <img src="Images/Directooo/01.jpg" width="250" height="547"><img src="Images/Directooo/02.jpg" width="250" height="547">
 <img src="Images/Directooo/03.jpg" width="250" height="547">
@@ -47,17 +52,6 @@ OWLMI is an easy and fun way for professionals to monetize intellectual knowledg
 ### **My Role** <br>
 As an iOS developer communicating with the business team and client, understanding requirements, and sprint planning with team members. On the iOS side, I have created this app from scratch.
 
-### **Technologies** <br>
-* Swift <br>
-* Clean architecture <br>
-* Lottie animations <br>
-* Payments <br>
-* Push Notifications <br>
-* Google Location services <br>
-* Firebase <br>
-* Realm <br>
-* Third party libraries <br>
-
 <img src="Images/Owlmi/1.png" width="250" height="547"><img src="Images/Owlmi/2.png" width="250" height="547">
 <img src="Images/Owlmi/3.png" width="250" height="547">
 <img src="Images/Owlmi/4.png" width="250" height="547">
@@ -71,17 +65,6 @@ Boatek is an easy to use application through which boats of all types that are o
 
 ### **My Role** <br>
 As an iOS developer communicating with the business team and client, understanding requirements, and sprint planning with team members. On the iOS side, I have created this app from scratch.
-
-### **Technologies** <br>
-* Swift <br>
-* Clean architecture <br>
-* Lottie animations <br>
-* Payments <br>
-* Push Notifications <br>
-* Google Location services <br>
-* Firebase <br>
-* Realm <br>
-* Third party libraries <br>
 
 <img src="Images/Boatek/1.png" width="250" height="547"><img src="Images/Boatek/2.png" width="250" height="547">
 <img src="Images/Boatek/3.png" width="250" height="547">
@@ -97,19 +80,6 @@ Circl is a new social booking and creator marketplace for wellbeing professional
 ### **My Role** <br>
 Developed multiple modules like Face-ID/Touch-ID(Authentication), Social Logins, bookings, payments, Chat module, etc. <br>
 
-### **Technologies** <br>
-* Swift <br>
-* Clean architecture <br>
-* Lottie animations <br>
-* Pusher For Chat <br>
-* Payments <br>
-* Push Notifications <br>
-* Google Location services <br>
-* Google maps <br>
-* Firebase <br>
-* Realm <br>
-* Third party libraries <br>
-
 <img src="Images/Circl/1.png" width="250" height="547"><img src="Images/Circl/2.png" width="250" height="547">
 <img src="Images/Circl/3.png" width="250" height="547">
 <img src="Images/Circl/4.png" width="250" height="547">
@@ -121,13 +91,6 @@ Developed multiple modules like Face-ID/Touch-ID(Authentication), Social Logins,
 # [**Gears Unlimited**](https://apps.apple.com/us/app/gears-unlimited/id1488106848)
 
 Gears Unlimited is an Exclusive App for DJs. Buy, Rent & Trade For new and used Dj equipment
-
-### **Technologies** <br>
-* Swift <br>
-* MVC <br>
-* In-app purchase <br>
-* Push Notifications <br>
-* Third party libraries <br>
 
 <img src="Images/Gears Unlimited/1.png" width="250" height="547"><img src="Images/Gears Unlimited/2.png" width="250" height="547">
 <img src="Images/Gears Unlimited/3.png" width="250" height="547">
@@ -142,13 +105,6 @@ The Mobile App of Menuons Food Online Delivery System with localization (English
 * Delivery or Pick up Feature <br>
 * Payments <br>
 * Notifications on order status <br>
-
-### **Technologies** <br>
-* Swift <br>
-* MVC <br>
-* Payments <br>
-* Push Notifications <br>
-* Third party libraries <br>
 
 <img src="Images/Menuons/1.png" width="250" height="547"><img src="Images/Menuons/2.png" width="250" height="547">
 <img src="Images/Menuons/3.png" width="250" height="547">
