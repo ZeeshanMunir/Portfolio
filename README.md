@@ -1,5 +1,8 @@
 # Portfolio
-I am a professional iOS Developer overall 4 years of experience in Mobile App Development using Swift and Obj- C. Having Deep knowledge of MVVM, VIPER, and Clean architecture. Delivers many applications to clients successfully also published on App-store.
+As an iOS developer, I specialize in designing and developing mobile applications for Apple's iOS platform. With years of experience in iOS development, I have honed my skills in Swift programming language, Xcode, iOS frameworks, and Apple's Human Interface Guidelines.
+Throughout my career, I have worked on various iOS applications, ranging from simple utility apps to complex enterprise-level solutions. I have extensive experience in using Swift and Objective-C, and I keep myself up-to-date with the latest iOS frameworks and technologies.
+In addition to my technical skills, I am a strong collaborator and communicator. I believe in building strong relationships with my team and stakeholders to ensure that the final product exceeds expectations. I am also committed to continuous learning and improvement, always seeking out new challenges and opportunities to enhance my skills.
+In my work, I prioritize clean and maintainable code, ensuring that applications are easy to scale and update. I am always eager to learn new technologies and stay up-to-date with the latest trends and best practices in iOS development.
 
 # [**Directooo**](https://apps.apple.com/us/app/directooo/id1565324549)
 
