@@ -7,7 +7,7 @@ In addition to my technical skills, I am a strong collaborator and communicator.
 
 In my work, I prioritize clean and maintainable code, ensuring that applications are easy to scale and update. I am always eager to learn new technologies and stay up-to-date with the latest trends and best practices in iOS development.
 
-### **Professionnal Skiills** <br>
+### **Professionnal Skills** <br>
 * iOS Development <br>
 * iOS Swift
 * SwiftUI
