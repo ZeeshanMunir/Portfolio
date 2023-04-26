@@ -73,7 +73,7 @@ As an iOS developer communicating with the business team and client, understandi
 <img src="Images/Boatek/6.png" width="250" height="547">
 
 
-# [**Circl**](https://apps.apple.com/us/app/)
+# [**Circl**](https://apps.apple.com/us/app/circl-wellness-marketplace/id1526462647)
 
 Circl is a new social booking and creator marketplace for wellbeing professionals and those looking to find them. This app has two user ends one is the Customer and the other one is the Freelancer. Users as Freelancers can register themselves and can set their availability using the calendar. Add different demo videos images, subscription content, public content, Stories, etc. On the other end, the User as a Customer can set appointments and subscribe to their content as well and many more.
 
