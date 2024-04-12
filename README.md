@@ -25,19 +25,6 @@ In my work, I prioritize clean and maintainable code, ensuring that applications
 * Push Notifications <br>
 * Google Location services, Google maps <br>
 
-# [**Directooo**](https://apps.apple.com/us/app/directooo/id1565324549)
-
-Directooo is an app connecting influencers and celebrities with their fans, a paid social media platform to browse, discover, and interact with your
-favorite influencers for a price! <br>
-Fans pay creators in exchange for exclusive content, special requests (ex: birthday greeting) or pay a monthly subscription to gain full access to their page. Creators are now able to have a new stream of monthly income and fans are one step closer to the influencers they love most! With every transaction, a percentage of the proceedings go to PR, Networks and NGO’s.
-
-<img src="Images/Directooo/01.jpg" width="250" height="547"><img src="Images/Directooo/02.jpg" width="250" height="547">
-<img src="Images/Directooo/03.jpg" width="250" height="547">
-<img src="Images/Directooo/04.jpg" width="250" height="547">
-<img src="Images/Directooo/05.jpg" width="250" height="547">
-<img src="Images/Directooo/07.jpg" width="250" height="547">
-<img src="Images/Directooo/08.jpg" width="250" height="547">
-
 
 # [**OWLMI**](https://apps.apple.com/us/app/owlmi/id1640674357)
 
@@ -52,18 +39,6 @@ OWLMI is an easy and fun way for professionals to monetize intellectual knowledg
 <img src="Images/Owlmi/5.png" width="250" height="547">
 <img src="Images/Owlmi/6.png" width="250" height="547">
 
-
-# [**BOATEK**](https://apps.apple.com/us/app/boatek/id1601366440)
-
-Boatek is an easy to use application through which boats of all types that are owned by individuals can be rented out so that customers who need the boat for a few hours or days can use it according to their liking. The boat-owner simply has to register his boat on Boatek along with its location and features. The customer can log into the app and choose a boat according to their liking and book their preferred time-slot and enjoy a wonderful experience of exploring the waters.
-
-<img src="Images/Boatek/1.png" width="250" height="547"><img src="Images/Boatek/2.png" width="250" height="547">
-<img src="Images/Boatek/3.png" width="250" height="547">
-<img src="Images/Boatek/4.png" width="250" height="547">
-<img src="Images/Boatek/5.png" width="250" height="547">
-<img src="Images/Boatek/6.png" width="250" height="547">
-
-
 # [**Circl - Wellness Marketplace**](https://apps.apple.com/us/app/circl-wellness-marketplace/id1526462647)
 
 Circl is a new social booking and creator marketplace for wellbeing professionals and those looking to find them. This app has two user ends one is the Customer and the other one is the Freelancer. Users as Freelancers can register themselves and can set their availability using the calendar. Add different demo videos images, subscription content, public content, Stories, etc. On the other end, the User as a Customer can set appointments and subscribe to their content as well and many more.
@@ -75,6 +50,29 @@ Circl is a new social booking and creator marketplace for wellbeing professional
 <img src="Images/Circl/6.png" width="250" height="547">
 <img src="Images/Circl/7.png" width="250" height="547">
 <img src="Images/Circl/8.png" width="250" height="547">
+
+# [**Directooo**](https://apps.apple.com/us/app/directooo/id1565324549)
+
+Directooo is an app connecting influencers and celebrities with their fans, a paid social media platform to browse, discover, and interact with your
+favorite influencers for a price! <br>
+Fans pay creators in exchange for exclusive content, special requests (ex: birthday greeting) or pay a monthly subscription to gain full access to their page. Creators are now able to have a new stream of monthly income and fans are one step closer to the influencers they love most! With every transaction, a percentage of the proceedings go to PR, Networks and NGO’s.
+
+<img src="Images/Directooo/01.jpg" width="250" height="547"><img src="Images/Directooo/02.jpg" width="250" height="547">
+<img src="Images/Directooo/03.jpg" width="250" height="547">
+<img src="Images/Directooo/04.jpg" width="250" height="547">
+<img src="Images/Directooo/05.jpg" width="250" height="547">
+<img src="Images/Directooo/07.jpg" width="250" height="547">
+<img src="Images/Directooo/08.jpg" width="250" height="547">
+
+# [**BOATEK**](https://apps.apple.com/us/app/boatek/id1601366440)
+
+Boatek is an easy to use application through which boats of all types that are owned by individuals can be rented out so that customers who need the boat for a few hours or days can use it according to their liking. The boat-owner simply has to register his boat on Boatek along with its location and features. The customer can log into the app and choose a boat according to their liking and book their preferred time-slot and enjoy a wonderful experience of exploring the waters.
+
+<img src="Images/Boatek/1.png" width="250" height="547"><img src="Images/Boatek/2.png" width="250" height="547">
+<img src="Images/Boatek/3.png" width="250" height="547">
+<img src="Images/Boatek/4.png" width="250" height="547">
+<img src="Images/Boatek/5.png" width="250" height="547">
+<img src="Images/Boatek/6.png" width="250" height="547">
 
 # [**Gears Unlimited**](https://apps.apple.com/us/app/gears-unlimited/id1488106848)
 
