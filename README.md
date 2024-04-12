@@ -26,6 +26,15 @@ In my work, I prioritize clean and maintainable code, ensuring that applications
 * Google Location services, Google maps <br>
 
 
+# [**RUMOR.**](https://apps.apple.com/pk/app/rumor/id6470634141)
+
+Rumor connects the dots between hosts of exclusive experiences with their ideal curated audience. Members of our community can directly connect with hosts to RSVP, manage invitation status, access event details including QR codes for entry, and more. Prospective members can submit the brief application and access our community once approved. As a host, Rumor is your backend infrastructure to manage your guest-list and RSVP process, with many unique features built specifically for the needs of hosts of curated moments.
+
+<img src="Images/Owlmi/1.png" width="250" height="547"><img src="Images/Owlmi/2.png" width="250" height="547">
+<img src="Images/Owlmi/3.png" width="250" height="547">
+<img src="Images/Owlmi/4.png" width="250" height="547">
+<img src="Images/Owlmi/5.png" width="250" height="547">
+<img src="Images/Owlmi/6.png" width="250" height="547">
 
 # [**OWLMI**](https://apps.apple.com/us/app/owlmi/id1640674357)
 
