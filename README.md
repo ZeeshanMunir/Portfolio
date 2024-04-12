@@ -30,7 +30,7 @@ In my work, I prioritize clean and maintainable code, ensuring that applications
 
 Rumor connects the dots between hosts of exclusive experiences with their ideal curated audience. Members of our community can directly connect with hosts to RSVP, manage invitation status, access event details including QR codes for entry, and more. Prospective members can submit the brief application and access our community once approved. As a host, Rumor is your backend infrastructure to manage your guest-list and RSVP process, with many unique features built specifically for the needs of hosts of curated moments.
 
-<img src="Images/Rumor/1.webp" width="250" height="547"><img src="Images/Rumor/2.webp" width="250" height="547">
+<img src="Images/Rumor/1.webp" width="250" height="547"> <img src="Images/Rumor/2.webp" width="250" height="547">
 <img src="Images/Rumor/3.webp" width="250" height="547">
 <img src="Images/Rumor/4.webp" width="250" height="547">
 
