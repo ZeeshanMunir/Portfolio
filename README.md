@@ -26,6 +26,7 @@ In my work, I prioritize clean and maintainable code, ensuring that applications
 * Google Location services, Google maps <br>
 
 
+
 # [**OWLMI**](https://apps.apple.com/us/app/owlmi/id1640674357)
 
 OWLMI is a platform connecting fans with a new generation of expertise. Book 1:1 video calls and access exclusive content from your favorite experts, professionals and influencers. 
@@ -51,6 +52,7 @@ Circl is a new social booking and creator marketplace for wellbeing professional
 <img src="Images/Circl/7.png" width="250" height="547">
 <img src="Images/Circl/8.png" width="250" height="547">
 
+
 # [**Directooo**](https://apps.apple.com/us/app/directooo/id1565324549)
 
 Directooo is an app connecting influencers and celebrities with their fans, a paid social media platform to browse, discover, and interact with your
@@ -63,6 +65,7 @@ Fans pay creators in exchange for exclusive content, special requests (ex: birth
 <img src="Images/Directooo/05.jpg" width="250" height="547">
 <img src="Images/Directooo/07.jpg" width="250" height="547">
 <img src="Images/Directooo/08.jpg" width="250" height="547">
+
 
 # [**BOATEK**](https://apps.apple.com/us/app/boatek/id1601366440)
 
