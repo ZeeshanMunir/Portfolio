@@ -9,22 +9,31 @@ I value clean, maintainable code, scalable architectures, and continuous improve
 
 
 ### **Professionnal Skills** <br>
-* iOS Development <br>
-* iOS Swift
+* iOS Development
+* Swift
 * SwiftUI
+* UIKit
+* Objective-C
+* React Native Development
+* Cross-Platform Mobile Applications
 * CocoaPods
-* iOS Design (Working with Auto Layouts)
-* REST APIs
-* In-app-purchases & Apple-pay integration
-* Pusher integration for chat
-* Twillio integration for video calling
-* Payment integrations with different payment methods
-* Firebase
+* Xcode
+* Auto Layout & Responsive UI Design
+* RESTful API Integration
+* GraphQL Integration
+* In-App Purchases & Apple Pay
+* Push Notifications (APNS)
+* Pusher Integration for Chat
+* Twilio Integration for Video Calling
+* Firebase (Auth, Firestore, FCM, Analytics)
+* Google Maps & Google Location Services
+* Payment Gateway Integrations
 * Alamofire
-* Clean swift architecture, MVVM, MVC
-* Git
-* Push Notifications <br>
-* Google Location services, Google maps <br>
+* MVVM, Clean Swift, MVC
+* Coordinator Pattern
+* Git & Version Control
+* CI/CD Workflows
+* Debugging & Performance Optimization
 
 
 # [**RUMOR.**](https://apps.apple.com/pk/app/rumor/id6470634141)
