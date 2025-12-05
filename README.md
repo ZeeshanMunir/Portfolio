@@ -1,11 +1,12 @@
 # Portfolio
-As an iOS developer, I specialize in designing and developing mobile applications for Apple's iOS platform. With years of experience in iOS development, I have honed my skills in Swift programming language, Xcode, iOS frameworks, and Apple's Human Interface Guidelines.
+I am a Mobile App Developer specializing in iOS application development and cross-platform mobile development using React Native. I focus on building scalable, high-performance mobile applications with strong attention to code quality, performance, and user experience.
 
-Throughout my career, I have worked on various iOS applications, ranging from simple utility apps to complex enterprise-level solutions. I have extensive experience in using Swift and Objective-C, and I keep myself up-to-date with the latest iOS frameworks and technologies.
+My core technical expertise includes Swift, SwiftUI, UIKit, Objective-C, Xcode, and modern iOS frameworks, along with React Native for cross-platform solutions. I work with REST and GraphQL APIs, follow MVVM and Clean Architecture, and implement CI/CD workflows to support maintainable and production-ready mobile systems.
 
-In addition to my technical skills, I am a strong collaborator and communicator. I believe in building strong relationships with my team and stakeholders to ensure that the final product exceeds expectations. I am also committed to continuous learning and improvement, always seeking out new challenges and opportunities to enhance my skills.
+I have hands-on experience across the full mobile app development lifecycle, from requirements analysis and architecture design to implementation, optimization, testing, and deployment to the App Store. I collaborate closely with designers, product managers, and backend teams to deliver reliable and user-centric mobile applications.
 
-In my work, I prioritize clean and maintainable code, ensuring that applications are easy to scale and update. I am always eager to learn new technologies and stay up-to-date with the latest trends and best practices in iOS development.
+I value clean, maintainable code, scalable architectures, and continuous improvement. I actively stay updated with the latest advancements in iOS development, React Native, and mobile engineering best practices, and I enjoy taking on new challenges that drive technical and product excellence.
+
 
 ### **Professionnal Skills** <br>
 * iOS Development <br>
