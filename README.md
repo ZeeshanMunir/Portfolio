@@ -44,19 +44,6 @@ Rumor connects the dots between hosts of exclusive experiences with their ideal 
 <img src="Images/Rumor/3.webp" width="250" height="547">
 <img src="Images/Rumor/4.webp" width="250" height="547">
 
-# [**OWLMI**](https://apps.apple.com/us/app/owlmi/id1640674357)
-
-OWLMI is a platform connecting fans with a new generation of expertise. Book 1:1 video calls and access exclusive content from your favorite experts, professionals and influencers. 
-OWLMI is an easy and fun way for professionals to monetize intellectual knowledge and experience.
-* Easily Schedule bookigs & 1:1 Video Calls with Professionals <br>
-* Subscribe professionals to access their private content <br>
-
-<img src="Images/Owlmi/1.png" width="250" height="547"><img src="Images/Owlmi/2.png" width="250" height="547">
-<img src="Images/Owlmi/3.png" width="250" height="547">
-<img src="Images/Owlmi/4.png" width="250" height="547">
-<img src="Images/Owlmi/5.png" width="250" height="547">
-<img src="Images/Owlmi/6.png" width="250" height="547">
-
 # [**RACETOFREEDOM**](https://apps.apple.com/gb/app/racetofreedom/id6473527134)
 
 RaceToFreedom is a training platform that offers users a diverse range of entrepreneurial courses (skilled-based) and the opportunity to connect with advisors. Users embark on a structured journey, starting as trainees and progressing through onboarding steps. Upon completion, they engage in a detailed discussion with an advisor, who, based on the assessment, unlocks access to various courses. As the advisor monitors the trainee's progress, they may grant advisor privileges, transforming the trainee into an advisor, and the cycle repeats. 
@@ -78,6 +65,28 @@ Circl is a new social booking and creator marketplace for wellbeing professional
 <img src="Images/Circl/7.png" width="250" height="547">
 <img src="Images/Circl/8.png" width="250" height="547">
 
+# [**BOATEK**](https://apps.apple.com/us/app/boatek/id1601366440)
+
+Boatek is an easy to use application through which boats of all types that are owned by individuals can be rented out so that customers who need the boat for a few hours or days can use it according to their liking. The boat-owner simply has to register his boat on Boatek along with its location and features. The customer can log into the app and choose a boat according to their liking and book their preferred time-slot and enjoy a wonderful experience of exploring the waters.
+
+<img src="Images/Boatek/1.png" width="250" height="547"><img src="Images/Boatek/2.png" width="250" height="547">
+<img src="Images/Boatek/3.png" width="250" height="547">
+<img src="Images/Boatek/4.png" width="250" height="547">
+<img src="Images/Boatek/5.png" width="250" height="547">
+<img src="Images/Boatek/6.png" width="250" height="547">
+
+# [**OWLMI**](https://apps.apple.com/us/app/owlmi/id1640674357)
+
+OWLMI is a platform connecting fans with a new generation of expertise. Book 1:1 video calls and access exclusive content from your favorite experts, professionals and influencers. 
+OWLMI is an easy and fun way for professionals to monetize intellectual knowledge and experience.
+* Easily Schedule bookigs & 1:1 Video Calls with Professionals <br>
+* Subscribe professionals to access their private content <br>
+
+<img src="Images/Owlmi/1.png" width="250" height="547"><img src="Images/Owlmi/2.png" width="250" height="547">
+<img src="Images/Owlmi/3.png" width="250" height="547">
+<img src="Images/Owlmi/4.png" width="250" height="547">
+<img src="Images/Owlmi/5.png" width="250" height="547">
+<img src="Images/Owlmi/6.png" width="250" height="547">
 
 # [**Directooo**](https://apps.apple.com/us/app/directooo/id1565324549)
 
@@ -91,17 +100,6 @@ Fans pay creators in exchange for exclusive content, special requests (ex: birth
 <img src="Images/Directooo/05.jpg" width="250" height="547">
 <img src="Images/Directooo/07.jpg" width="250" height="547">
 <img src="Images/Directooo/08.jpg" width="250" height="547">
-
-
-# [**BOATEK**](https://apps.apple.com/us/app/boatek/id1601366440)
-
-Boatek is an easy to use application through which boats of all types that are owned by individuals can be rented out so that customers who need the boat for a few hours or days can use it according to their liking. The boat-owner simply has to register his boat on Boatek along with its location and features. The customer can log into the app and choose a boat according to their liking and book their preferred time-slot and enjoy a wonderful experience of exploring the waters.
-
-<img src="Images/Boatek/1.png" width="250" height="547"><img src="Images/Boatek/2.png" width="250" height="547">
-<img src="Images/Boatek/3.png" width="250" height="547">
-<img src="Images/Boatek/4.png" width="250" height="547">
-<img src="Images/Boatek/5.png" width="250" height="547">
-<img src="Images/Boatek/6.png" width="250" height="547">
 
 # [**Gears Unlimited**](https://apps.apple.com/us/app/gears-unlimited/id1488106848)
 
