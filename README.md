@@ -36,7 +36,7 @@ I value clean, maintainable code, scalable architectures, and continuous improve
 * Debugging & Performance Optimization
 
 
-# [**RUMOR: Invites That Matter**](https://apps.apple.com/pk/app/rumor/id6470634141](https://apps.apple.com/ke/app/rumor-invites-that-matter/id6503365397)
+# [**RUMOR: Invites That Matter**](https://apps.apple.com/ke/app/rumor-invites-that-matter/id6503365397)
 
 Rumor connects the dots between hosts of exclusive experiences with their ideal curated audience. Members of our community can directly connect with hosts to RSVP, manage invitation status, access event details including QR codes for entry, and more. Prospective members can submit the brief application and access our community once approved. As a host, Rumor is your backend infrastructure to manage your guest-list and RSVP process, with many unique features built specifically for the needs of hosts of curated moments.
 
